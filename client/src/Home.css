@@ -1,0 +1,43 @@
+   @media(max-width: 760px) {
+     .lessons-bg {
+       margin: auto;
+       width: 250px;
+
+     }
+
+     .resource-sm {
+       margin: auto;
+       width: 70%;
+
+     }
+
+     .text-sm {
+       font-size: 80%;
+     }
+
+     .img-set-size {
+       width: 90%;
+     }
+   }
+
+   @media(min-width:768px) {
+     .content1 {
+       width: 640px;
+     }
+
+     .image1 {
+       width: 414px;
+     }
+
+     .template-m2 {
+       padding-left: 270px;
+       padding-bottom: 330px;
+     }
+
+   }
+
+   @media(max-width: 1300px) {
+     .student-review-margin {
+       margin-left: 35px;
+     }
+   }

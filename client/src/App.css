@@ -1,0 +1,517 @@
+body {
+  /* The image used */
+  background-image: url("images/Rectangle\ 1.svg");
+
+  /* Full height */
+  width: 100%;
+  height: 100%;
+
+  /* Center and scale the image nicely */
+
+  background-repeat: no-repeat;
+
+
+  font-family: 'Roboto';
+  font-style: normal;
+  background-color: white;
+}
+
+.logo {
+
+  width: 92px;
+  height: 92px;
+
+
+}
+
+.menu {
+
+
+  font-weight: 700;
+  font-size: 20px;
+
+
+  color: #2E4057;
+  background: #F2F7FD;
+
+}
+
+.image1 {
+  padding-top: 20px;
+
+}
+
+.content1 {
+
+
+
+
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+
+  color: #2E4057;
+  padding-top: 20px;
+
+
+
+
+}
+
+
+.center {
+  margin: auto;
+  width: 60%;
+
+
+}
+
+.button1 {
+  width: 187px;
+  height: 46px;
+
+
+  background: #1A064F;
+  border-radius: 15px;
+}
+
+.content1A {
+
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+
+}
+
+.row1 {
+  border-bottom: 1px solid #E4E4E4;
+  background-color: #F2F7FD;
+}
+
+.rowA {
+  margin-top: 8%;
+  margin-bottom: 12%;
+
+}
+
+
+
+.lessons,
+.title {
+
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+
+}
+
+.lessons-para {
+  margin-top: -6px;
+}
+
+.lessons-bg {
+  background: #FFFFFF;
+  border: 1px solid #E9E9E9;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 33px;
+
+}
+
+
+.resource-sm {
+
+  width: 50%;
+
+}
+
+
+
+.resources {
+  background: black;
+  color: #FFFFFF;
+  padding-top: 6%;
+
+}
+
+
+.student-text {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.student-name {
+  font-weight: 700;
+  font-size: 20px;
+
+}
+
+.student-loc {
+  margin-top: -8px;
+}
+
+.std-text-margin {
+  margin-top: -12px;
+}
+
+.carousel .carousel-indicators button {
+  width: 20px;
+  height: 20px;
+  border-radius: 100%;
+
+}
+
+.reasons-margin {
+  margin-top: 100px;
+}
+
+.reasons-bg-color {
+  background: #F2F7FD;
+  border-radius: 13px;
+  height: 62px;
+  width: 347px;
+}
+
+.reasons-text {
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.choose-m {
+  padding-top: 35px;
+
+}
+
+
+.material-bg-image {
+  /* The image used */
+  background: url("images/download\ bg2.svg") no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  /* Full height */
+
+
+  /* Center and scale the image nicely */
+
+  background-repeat: no-repeat;
+
+
+}
+
+.material-bg-image-2 {
+  /* The image used */
+  background: url("images/download\ bg1.svg") no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  /* Full height */
+
+
+  /* Center and scale the image nicely */
+
+  background-repeat: no-repeat;
+
+
+}
+
+.template-m {
+  padding-top: 200px;
+}
+
+
+
+.material-bg {
+  background-color: #F2F7FD;
+}
+
+.logo1 {
+  width: 128px;
+}
+
+.f-margin {
+  margin-top: -22px;
+}
+
+.color-set {
+  color: #2E4057;
+
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 20px;
+
+}
+
+.padding-text {
+  padding-top: 11%;
+  padding-bottom: 2%;
+}
+
+.heading-font {
+  font-weight: 600;
+  font-size: 16px;
+
+}
+
+.sign-up-form {
+  background: #FFFFFF;
+  border: 1px solid #E2E2E2;
+  border-radius: 56px;
+}
+
+.button-size {
+  width: 158px;
+  height: 51px;
+  background: #2E4057;
+  border: 1px solid #2E4057;
+  border-radius: 12px;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  /* identical to box height */
+
+
+  color: #F1F1F1;
+}
+
+.sign-up-font {
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.form-content-bg {
+  background: #F1F1F1;
+
+}
+
+.login-here-font {
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+}
+
+.form-control::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: #000000;
+
+  opacity: 1;
+  /* Firefox */
+}
+
+.form-control:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: #000000;
+
+}
+
+.form-control::-ms-input-placeholder {
+  /* Microsoft Edge */
+
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: #000000;
+
+}
+
+.margin-bottom-form {
+  margin-bottom: 230px;
+}
+
+.circle-bg {
+  background: #F2F7FD;
+
+
+  border-radius: 50%;
+}
+
+.login-text {
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: black;
+}
+
+.detail-width {
+  width: 60px;
+}
+
+.details-font {
+
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.message-height {
+  line-height: 134px;
+}
+
+.lesson-form {
+  background: #FFFFFF;
+  border: 1px solid white;
+  border-radius: 56px;
+}
+
+.teacher-name-font {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.loc-font-margin {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  margin-top: -8px;
+}
+
+.top-border {
+  border-top: 1px solid #EAEAEA;
+}
+
+.ratings-font {
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 14px;
+  color: #878787;
+  margin-top: -10px;
+}
+
+.rating-font-black {
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 14px;
+  margin-top: -10px;
+}
+
+.rating-date {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+}
+
+.rating-date-margin {
+  margin-top: -12px;
+}
+
+.form-msg-size {
+
+  background: #FFFFFF;
+  border: 1px solid #000000;
+  height: 105px;
+
+}
+
+.button-size-review {
+  width: 131px;
+
+  background: #1A064F;
+  border-radius: 21px;
+  color: white;
+  border-color: black;
+}
+
+.font-time {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  margin-top: -14px;
+}
+
+.cost-color {
+  color: #409F06;
+}
+
+.resources-border {
+
+  background: #FFFFFF;
+  border: 1px solid #DEDEDE;
+  box-shadow: 0px 4px 15px rgba(179, 179, 179, 0.25);
+  border-radius: 27px;
+}
+
+.pdf-img-width {
+  width: 61px;
+}
+
+.pdf-title-font {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 23px;
+}
+
+.resources-cost {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #DA1111;
+
+}
+
+
+/* Style the buttons inside the tab */
+.tab button {
+  border: none;
+  background: none;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: center;
+  color: black;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background: #2E4057;
+  border-radius: 47px;
+  color: white;
+}
+
+.form-h {
+  height: 56px;
+}
+
+.rec {
+
+  background: #2E4057;
+}
+
+.button-tab {
+
+  background: #F2F7FD;
+  border-radius: 12px;
+}
+
+.tab-font {
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+}
+
+#profile {
+  height: auto;
+
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+
+}

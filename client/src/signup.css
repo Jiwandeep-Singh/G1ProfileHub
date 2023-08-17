@@ -1,0 +1,27 @@
+body {
+    background-image: none;
+    background: #F5F5F5;
+}
+
+@media(max-width: 760px) {
+    .padding-signup {
+        padding-top: 40%;
+
+    }
+
+
+}
+
+@media(max-width: 800px) {
+    .login-img {
+        display: none;
+    }
+
+}
+
+@media (max-width: 1024px) and (min-width:761px) {
+    .padding-signup {
+        padding-top: 20%;
+
+    }
+}
